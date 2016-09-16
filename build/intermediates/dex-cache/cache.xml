@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4acbcef772b1034d5df15df41cf07872bc147a36">
+        <dex dex="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_319c148dc6d167b26c807f82990c6ab0396bb6f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_1e11277317d0155f6886212013640db9ecab8d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_7e8588ba14577017a985a7cfbeb96a674810c07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_6c2728a28fef870604a76e55b7be21f380bde700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_9abb904821c623eafb50316232dbd99534a38a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="73ffd865c2f1446f0cd613c5b68d3ca767a79fc5">
+        <dex dex="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/pre-dexed/debug/instant-run_123a168be4f746d1da280d70b8927d4096fac369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_7faffa5c74cfdd343f9b31d66934ff2775bd7d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pratibha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/media/pratibha/data/pratibha/Android_MyProjects/Demo_trial_projects/ImageDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_7fc160c77f0502fa10692e2e2eea0b8e5282d0e5.jar" />
+    </item>
+
+</items>
